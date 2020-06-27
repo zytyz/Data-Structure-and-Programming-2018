@@ -1,0 +1,6 @@
+adta -s 123
+adta -s 456
+adta -s 789
+adta -s 012
+adtp -v
+q -f

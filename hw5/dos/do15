@@ -1,0 +1,19 @@
+adta -r 5000
+adtp -v
+adtp -r
+adtd -f 1000
+adtp -v
+adtp -r
+adtd -b 1000
+adtp -v
+adtp -r
+adtr 8
+adta -r 5000
+adtp -v
+adtp -r
+adtd -f 1000
+adtp -v
+adtp -r
+adtd -b 1000
+adtp -v
+adtp -r

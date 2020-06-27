@@ -1,0 +1,15 @@
+./adtTest.array <do1&> myado1
+./ref/adtTest-mac.array <do1&> refado1
+vimdiff myado1 refado1
+./adtTest.array <do2&> myado2
+./ref/adtTest-mac.array <do2&> refado2
+vimdiff myado2 refado2
+./adtTest.array <do3&> myado3
+./ref/adtTest-mac.array <do3&> refado3
+vimdiff myado3 refado3
+./adtTest.array <do4&> myado4
+./ref/adtTest-mac.array <do4&> refado4
+vimdiff myado4 refado4
+./adtTest.array <do5&> myado5
+./ref/adtTest-mac.array <do5&> refado5
+vimdiff myado5 refado5

@@ -1,0 +1,9 @@
+adtr 3
+adta -r 50000
+adtp 
+adtp -r
+adtp -v
+adtd -r 10000
+adtp -r
+adtp -v
+adtp

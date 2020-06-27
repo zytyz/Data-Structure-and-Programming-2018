@@ -1,0 +1,40 @@
+adt> adta -r 20
+
+adt> adtp
+=== ADT (array) ===
+[  0] = gpcbgx   [  1] = pwubvx   [  2] = oolqqs   [  3] = jqsvhi   
+[  4] = nvhizi   [  5] = jemxun   [  6] = stcizy   [  7] = ypxgeo   
+[  8] = qljlcb   [  9] = yfchfb   [ 10] = mulrct   [ 11] = aonvnx   
+[ 12] = cqfndd   [ 13] = csoxla   [ 14] = pjgrrm   [ 15] = segevj   
+[ 16] = xvylrl   [ 17] = taogab   [ 18] = lujbfo   [ 19] = mldgzt   
+
+
+adt> adtd -front 3
+
+adt> adtp
+=== ADT (array) ===
+[  0] = lujbfo   [  1] = pwubvx   [  2] = oolqqs   [  3] = jqsvhi   
+[  4] = nvhizi   [  5] = jemxun   [  6] = stcizy   [  7] = ypxgeo   
+[  8] = qljlcb   [  9] = yfchfb   [ 10] = mulrct   [ 11] = aonvnx   
+[ 12] = cqfndd   [ 13] = csoxla   [ 14] = pjgrrm   [ 15] = segevj   
+[ 16] = xvylrl   
+
+adt> adtd -back 5
+
+adt> adtp
+=== ADT (array) ===
+[  0] = lujbfo   [  1] = pwubvx   [  2] = oolqqs   [  3] = jqsvhi   
+[  4] = nvhizi   [  5] = jemxun   [  6] = stcizy   [  7] = ypxgeo   
+[  8] = qljlcb   [  9] = yfchfb   [ 10] = mulrct   [ 11] = aonvnx   
+
+
+adt> adtd -rand 4
+
+adt> adtp
+=== ADT (array) ===
+[  0] = qljlcb   [  1] = pwubvx   [  2] = oolqqs   [  3] = yfchfb   
+[  4] = nvhizi   [  5] = jemxun   [  6] = mulrct   [  7] = ypxgeo   
+
+
+adt> q -f
+

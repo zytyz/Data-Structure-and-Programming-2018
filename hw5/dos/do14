@@ -1,0 +1,4 @@
+adta -r 200000
+adtp -v
+adtp -r
+q -f

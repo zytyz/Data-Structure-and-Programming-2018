@@ -1,0 +1,7 @@
+adtreset 3
+adtadd -r 5000
+adtprint -v
+//adtd -r 230
+//adtp
+//adtp -v
+//adtd -r 1

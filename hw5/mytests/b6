@@ -1,0 +1,33 @@
+adt> adta -r 1000000
+
+adt> usage
+Period time used : 1.11 seconds
+Total time used  : 1.11 seconds
+Total memory used: 62.23 M Bytes
+
+adt> adtquery zycupx 
+"zycupx" is found.
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 1.11 seconds
+Total memory used: 62.23 M Bytes
+
+adt> adtquery jqumxn
+"jqumxn" is found.
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 1.11 seconds
+Total memory used: 62.23 M Bytes
+
+adt> adtquery uuyesf
+"uuyesf" is found.
+
+adt> usage
+Period time used : 0 seconds
+Total time used  : 1.11 seconds
+Total memory used: 62.23 M Bytes
+
+adt> q -f
+
