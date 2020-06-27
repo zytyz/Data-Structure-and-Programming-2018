@@ -1,0 +1,429 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARROW_DOWN_KEY	include/cmdCharDef.h	/^   ARROW_DOWN_KEY   = 66 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	include/cmdCharDef.h	/^   ARROW_DOWN_KEY   = TA_ARROW_DOWN_KEY,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^   ARROW_DOWN_KEY   = 66 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^   ARROW_DOWN_KEY   = TA_ARROW_DOWN_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	include/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	include/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = TA_ARROW_KEY_BEGIN,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   ARROW_KEY_BEGIN  = TA_ARROW_KEY_BEGIN,$/;"	e	enum:ParseChar
+ARROW_KEY_END	include/cmdCharDef.h	/^   ARROW_KEY_END    = ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_END	include/cmdCharDef.h	/^   ARROW_KEY_END    = TA_ARROW_KEY_END,$/;"	e	enum:ParseChar
+ARROW_KEY_END	src/cmd/cmdCharDef.h	/^   ARROW_KEY_END    = ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_KEY_END	src/cmd/cmdCharDef.h	/^   ARROW_KEY_END    = TA_ARROW_KEY_END,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	include/cmdCharDef.h	/^   ARROW_KEY_FLAG   = 1 << 8,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	include/cmdCharDef.h	/^   ARROW_KEY_FLAG   = TA_ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^   ARROW_KEY_FLAG   = 1 << 8,$/;"	e	enum:ParseChar
+ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^   ARROW_KEY_FLAG   = TA_ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	include/cmdCharDef.h	/^   ARROW_KEY_INT    = 91,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	include/cmdCharDef.h	/^   ARROW_KEY_INT    = TA_ARROW_KEY_INT,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^   ARROW_KEY_INT    = 91,$/;"	e	enum:ParseChar
+ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^   ARROW_KEY_INT    = TA_ARROW_KEY_INT,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	include/cmdCharDef.h	/^   ARROW_LEFT_KEY   = 68 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	include/cmdCharDef.h	/^   ARROW_LEFT_KEY   = TA_ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_LEFT_KEY   = 68 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_LEFT_KEY   = TA_ARROW_LEFT_KEY,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	include/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = 67 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	include/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = TA_ARROW_RIGHT_KEY,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = 67 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^   ARROW_RIGHT_KEY  = TA_ARROW_RIGHT_KEY,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	include/cmdCharDef.h	/^   ARROW_UP_KEY     = 65 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	include/cmdCharDef.h	/^   ARROW_UP_KEY     = TA_ARROW_UP_KEY,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^   ARROW_UP_KEY     = 65 + ARROW_KEY_FLAG,$/;"	e	enum:ParseChar
+ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^   ARROW_UP_KEY     = TA_ARROW_UP_KEY,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	include/cmdCharDef.h	/^   BACK_SPACE_CHAR  = 8,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	include/cmdCharDef.h	/^   BACK_SPACE_CHAR  = TA_BACK_SPACE_CHAR,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^   BACK_SPACE_CHAR  = 8,$/;"	e	enum:ParseChar
+BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^   BACK_SPACE_CHAR  = TA_BACK_SPACE_CHAR,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	include/cmdCharDef.h	/^   BACK_SPACE_KEY   = 127,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	include/cmdCharDef.h	/^   BACK_SPACE_KEY   = TA_BACK_SPACE_KEY,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^   BACK_SPACE_KEY   = 127,$/;"	e	enum:ParseChar
+BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^   BACK_SPACE_KEY   = TA_BACK_SPACE_KEY,$/;"	e	enum:ParseChar
+BEEP_CHAR	include/cmdCharDef.h	/^   BEEP_CHAR        = 7,$/;"	e	enum:ParseChar
+BEEP_CHAR	include/cmdCharDef.h	/^   BEEP_CHAR        = TA_BEEP_CHAR,$/;"	e	enum:ParseChar
+BEEP_CHAR	src/cmd/cmdCharDef.h	/^   BEEP_CHAR        = 7,$/;"	e	enum:ParseChar
+BEEP_CHAR	src/cmd/cmdCharDef.h	/^   BEEP_CHAR        = TA_BEEP_CHAR,$/;"	e	enum:ParseChar
+CMD_CHAR_DEF_H	include/cmdCharDef.h	/^#define CMD_CHAR_DEF_H$/;"	d
+CMD_CHAR_DEF_H	src/cmd/cmdCharDef.h	/^#define CMD_CHAR_DEF_H$/;"	d
+CMD_COMMON_H	src/cmd/cmdCommon.h	/^#define CMD_COMMON_H$/;"	d
+CMD_EXEC_DONE	include/cmdParser.h	/^   CMD_EXEC_DONE  = 0,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_DONE	src/cmd/cmdParser.h	/^   CMD_EXEC_DONE  = 0,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_ERROR	include/cmdParser.h	/^   CMD_EXEC_ERROR = 1,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_ERROR	src/cmd/cmdParser.h	/^   CMD_EXEC_ERROR = 1,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_NOP	include/cmdParser.h	/^   CMD_EXEC_NOP   = 3,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_NOP	src/cmd/cmdParser.h	/^   CMD_EXEC_NOP   = 3,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_QUIT	include/cmdParser.h	/^   CMD_EXEC_QUIT  = 2,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_QUIT	src/cmd/cmdParser.h	/^   CMD_EXEC_QUIT  = 2,$/;"	e	enum:CmdExecStatus
+CMD_EXEC_TOT	include/cmdParser.h	/^   CMD_EXEC_TOT$/;"	e	enum:CmdExecStatus
+CMD_EXEC_TOT	src/cmd/cmdParser.h	/^   CMD_EXEC_TOT$/;"	e	enum:CmdExecStatus
+CMD_OPT_ERROR_TOT	include/cmdParser.h	/^   CMD_OPT_ERROR_TOT$/;"	e	enum:CmdOptionError
+CMD_OPT_ERROR_TOT	src/cmd/cmdParser.h	/^   CMD_OPT_ERROR_TOT$/;"	e	enum:CmdOptionError
+CMD_OPT_EXTRA	include/cmdParser.h	/^   CMD_OPT_EXTRA      = 1,$/;"	e	enum:CmdOptionError
+CMD_OPT_EXTRA	src/cmd/cmdParser.h	/^   CMD_OPT_EXTRA      = 1,$/;"	e	enum:CmdOptionError
+CMD_OPT_FOPEN_FAIL	include/cmdParser.h	/^   CMD_OPT_FOPEN_FAIL = 3,$/;"	e	enum:CmdOptionError
+CMD_OPT_FOPEN_FAIL	src/cmd/cmdParser.h	/^   CMD_OPT_FOPEN_FAIL = 3,$/;"	e	enum:CmdOptionError
+CMD_OPT_ILLEGAL	include/cmdParser.h	/^   CMD_OPT_ILLEGAL    = 2,$/;"	e	enum:CmdOptionError
+CMD_OPT_ILLEGAL	src/cmd/cmdParser.h	/^   CMD_OPT_ILLEGAL    = 2,$/;"	e	enum:CmdOptionError
+CMD_OPT_MISSING	include/cmdParser.h	/^   CMD_OPT_MISSING    = 0,$/;"	e	enum:CmdOptionError
+CMD_OPT_MISSING	src/cmd/cmdParser.h	/^   CMD_OPT_MISSING    = 0,$/;"	e	enum:CmdOptionError
+CMD_PARSER_H	include/cmdParser.h	/^#define CMD_PARSER_H$/;"	d
+CMD_PARSER_H	src/cmd/cmdParser.h	/^#define CMD_PARSER_H$/;"	d
+CmdClass	include/cmdParser.h	/^#define CmdClass(/;"	d
+CmdClass	src/cmd/cmdParser.h	/^#define CmdClass(/;"	d
+CmdExec	include/cmdParser.h	/^   CmdExec() {}$/;"	f	class:CmdExec
+CmdExec	include/cmdParser.h	/^class CmdExec$/;"	c
+CmdExec	src/cmd/cmdParser.h	/^   CmdExec() {}$/;"	f	class:CmdExec
+CmdExec	src/cmd/cmdParser.h	/^class CmdExec$/;"	c
+CmdExecStatus	include/cmdParser.h	/^enum CmdExecStatus$/;"	g
+CmdExecStatus	src/cmd/cmdParser.h	/^enum CmdExecStatus$/;"	g
+CmdMap	include/cmdParser.h	/^typedef map<const string, CmdExec*>   CmdMap;$/;"	t	class:CmdParser
+CmdMap	src/cmd/cmdParser.h	/^typedef map<const string, CmdExec*>   CmdMap;$/;"	t	class:CmdParser
+CmdOptionError	include/cmdParser.h	/^enum CmdOptionError$/;"	g
+CmdOptionError	src/cmd/cmdParser.h	/^enum CmdOptionError$/;"	g
+CmdParser	include/cmdParser.h	/^   CmdParser(const string& p) : _prompt(p), _dofile(0),$/;"	f	class:CmdParser
+CmdParser	include/cmdParser.h	/^class CmdParser$/;"	c
+CmdParser	src/cmd/cmdParser.h	/^   CmdParser(const string& p) : _prompt(p), _dofile(0),$/;"	f	class:CmdParser
+CmdParser	src/cmd/cmdParser.h	/^class CmdParser$/;"	c
+CmdRegPair	include/cmdParser.h	/^typedef pair<const string, CmdExec*>  CmdRegPair;\/\/ziyi: mandcmd(string), pointer to CmdExec$/;"	t	class:CmdParser
+CmdRegPair	src/cmd/cmdParser.h	/^typedef pair<const string, CmdExec*>  CmdRegPair;\/\/ziyi: mandcmd(string), pointer to CmdExec$/;"	t	class:CmdParser
+DBAppendCmd	src/db/dbCmd.h	/^CmdClass(DBAppendCmd);$/;"	v
+DBAveCmd	src/db/dbCmd.h	/^CmdClass(DBAveCmd);$/;"	v
+DBCountCmd	src/db/dbCmd.h	/^CmdClass(DBCountCmd);$/;"	v
+DBJson	include/dbJson.h	/^    DBJson():_jsonReadIn(false) {}$/;"	f	class:DBJson
+DBJson	include/dbJson.h	/^class DBJson$/;"	c
+DBJson	src/db/dbJson.h	/^    DBJson():_jsonReadIn(false) {}$/;"	f	class:DBJson
+DBJson	src/db/dbJson.h	/^class DBJson$/;"	c
+DBJsonElem	include/dbJson.h	/^   DBJsonElem() {}$/;"	f	class:DBJsonElem
+DBJsonElem	include/dbJson.h	/^   DBJsonElem(const string& k, int v): _key(k), _value(v) {}$/;"	f	class:DBJsonElem
+DBJsonElem	include/dbJson.h	/^class DBJsonElem$/;"	c
+DBJsonElem	src/db/dbJson.h	/^   DBJsonElem() {}$/;"	f	class:DBJsonElem
+DBJsonElem	src/db/dbJson.h	/^   DBJsonElem(const string& k, int v): _key(k), _value(v) {}$/;"	f	class:DBJsonElem
+DBJsonElem	src/db/dbJson.h	/^class DBJsonElem$/;"	c
+DBMaxCmd	src/db/dbCmd.h	/^CmdClass(DBMaxCmd);$/;"	v
+DBMinCmd	src/db/dbCmd.h	/^CmdClass(DBMinCmd);$/;"	v
+DBPrintCmd	src/db/dbCmd.h	/^CmdClass(DBPrintCmd);$/;"	v
+DBReadCmd	src/db/dbCmd.h	/^CmdClass(DBReadCmd);$/;"	v
+DBSortCmd	src/db/dbCmd.h	/^CmdClass(DBSortCmd);$/;"	v
+DBSortKey	include/dbJson.h	/^struct DBSortKey$/;"	s
+DBSortKey	src/db/dbJson.h	/^struct DBSortKey$/;"	s
+DBSortValue	include/dbJson.h	/^struct DBSortValue$/;"	s
+DBSortValue	src/db/dbJson.h	/^struct DBSortValue$/;"	s
+DBSumCmd	src/db/dbCmd.h	/^CmdClass(DBSumCmd);$/;"	v
+DB_CMD_H	src/db/dbCmd.h	/^#define DB_CMD_H$/;"	d
+DB_JSON_H	include/dbJson.h	/^#define DB_JSON_H$/;"	d
+DB_JSON_H	src/db/dbJson.h	/^#define DB_JSON_H$/;"	d
+DELETE_KEY	include/cmdCharDef.h	/^   DELETE_KEY       = 14,\/\/51 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+DELETE_KEY	include/cmdCharDef.h	/^   DELETE_KEY       = TA_DELETE_KEY,$/;"	e	enum:ParseChar
+DELETE_KEY	src/cmd/cmdCharDef.h	/^   DELETE_KEY       = 14,\/\/51 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+DELETE_KEY	src/cmd/cmdCharDef.h	/^   DELETE_KEY       = TA_DELETE_KEY,$/;"	e	enum:ParseChar
+DofileCmd	src/cmd/cmdCommon.h	/^CmdClass(DofileCmd);$/;"	v
+END_KEY	include/cmdCharDef.h	/^   END_KEY          = 18,\/\/52 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+END_KEY	include/cmdCharDef.h	/^   END_KEY          = TA_END_KEY,$/;"	e	enum:ParseChar
+END_KEY	src/cmd/cmdCharDef.h	/^   END_KEY          = 18,\/\/52 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+END_KEY	src/cmd/cmdCharDef.h	/^   END_KEY          = TA_END_KEY,$/;"	e	enum:ParseChar
+ESC_KEY	include/cmdCharDef.h	/^   ESC_KEY          = 27,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	include/cmdCharDef.h	/^   ESC_KEY          = TA_ESC_KEY,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	src/cmd/cmdCharDef.h	/^   ESC_KEY          = 27,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+ESC_KEY	src/cmd/cmdCharDef.h	/^   ESC_KEY          = TA_ESC_KEY,         \/\/ Not printable; used for combo keys$/;"	e	enum:ParseChar
+EXEC	Makefile	/^EXEC     = mydb$/;"	m
+HOME_KEY	include/cmdCharDef.h	/^   HOME_KEY         = 16,\/\/49 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+HOME_KEY	include/cmdCharDef.h	/^   HOME_KEY         = TA_HOME_KEY,$/;"	e	enum:ParseChar
+HOME_KEY	src/cmd/cmdCharDef.h	/^   HOME_KEY         = 16,\/\/49 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+HOME_KEY	src/cmd/cmdCharDef.h	/^   HOME_KEY         = TA_HOME_KEY,$/;"	e	enum:ParseChar
+HelpCmd	src/cmd/cmdCommon.h	/^CmdClass(HelpCmd);$/;"	v
+HistoryCmd	src/cmd/cmdCommon.h	/^CmdClass(HistoryCmd);$/;"	v
+INPUT_END_KEY	include/cmdCharDef.h	/^   INPUT_END_KEY    = 4,          \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	include/cmdCharDef.h	/^   INPUT_END_KEY    = TA_INPUT_END_KEY,   \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	src/cmd/cmdCharDef.h	/^   INPUT_END_KEY    = 4,          \/\/ ctrl-d$/;"	e	enum:ParseChar
+INPUT_END_KEY	src/cmd/cmdCharDef.h	/^   INPUT_END_KEY    = TA_INPUT_END_KEY,   \/\/ ctrl-d$/;"	e	enum:ParseChar
+INSERT_KEY	include/cmdCharDef.h	/^   INSERT_KEY       = 50 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+INSERT_KEY	include/cmdCharDef.h	/^   INSERT_KEY       = TA_INSERT_KEY,$/;"	e	enum:ParseChar
+INSERT_KEY	src/cmd/cmdCharDef.h	/^   INSERT_KEY       = 50 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+INSERT_KEY	src/cmd/cmdCharDef.h	/^   INSERT_KEY       = TA_INSERT_KEY,$/;"	e	enum:ParseChar
+LIBFILES	Makefile	/^LIBFILES = $(addsuffix .a, $(addprefix lib, $(LIBPKGS)))$/;"	m
+LIBPKGS	Makefile	/^LIBPKGS  = db cmd util $/;"	m
+LIBS	Makefile	/^LIBS     = $(addprefix -l, $(LIBPKGS))$/;"	m
+LINE_BEGIN_KEY	include/cmdCharDef.h	/^   LINE_BEGIN_KEY   = 1,          \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	include/cmdCharDef.h	/^   LINE_BEGIN_KEY   = TA_LINE_BEGIN_KEY,  \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^   LINE_BEGIN_KEY   = 1,          \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^   LINE_BEGIN_KEY   = TA_LINE_BEGIN_KEY,  \/\/ ctrl-a$/;"	e	enum:ParseChar
+LINE_END_KEY	include/cmdCharDef.h	/^   LINE_END_KEY     = 5,          \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	include/cmdCharDef.h	/^   LINE_END_KEY     = TA_LINE_END_KEY,    \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	src/cmd/cmdCharDef.h	/^   LINE_END_KEY     = 5,          \/\/ ctrl-e$/;"	e	enum:ParseChar
+LINE_END_KEY	src/cmd/cmdCharDef.h	/^   LINE_END_KEY     = TA_LINE_END_KEY,    \/\/ ctrl-e$/;"	e	enum:ParseChar
+MAIN	Makefile	/^MAIN     = main$/;"	m
+MOD_KEY_BEGIN	include/cmdCharDef.h	/^   MOD_KEY_BEGIN    = HOME_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	include/cmdCharDef.h	/^   MOD_KEY_BEGIN    = TA_MOD_KEY_BEGIN,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   MOD_KEY_BEGIN    = HOME_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^   MOD_KEY_BEGIN    = TA_MOD_KEY_BEGIN,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	include/cmdCharDef.h	/^   MOD_KEY_DUMMY    = 126,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	include/cmdCharDef.h	/^   MOD_KEY_DUMMY    = TA_MOD_KEY_DUMMY,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^   MOD_KEY_DUMMY    = 126,$/;"	e	enum:ParseChar
+MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^   MOD_KEY_DUMMY    = TA_MOD_KEY_DUMMY,$/;"	e	enum:ParseChar
+MOD_KEY_END	include/cmdCharDef.h	/^   MOD_KEY_END      = PG_DOWN_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_END	include/cmdCharDef.h	/^   MOD_KEY_END      = TA_MOD_KEY_END,$/;"	e	enum:ParseChar
+MOD_KEY_END	src/cmd/cmdCharDef.h	/^   MOD_KEY_END      = PG_DOWN_KEY,$/;"	e	enum:ParseChar
+MOD_KEY_END	src/cmd/cmdCharDef.h	/^   MOD_KEY_END      = TA_MOD_KEY_END,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	include/cmdCharDef.h	/^   MOD_KEY_FLAG     = 1 << 9,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	include/cmdCharDef.h	/^   MOD_KEY_FLAG     = TA_MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^   MOD_KEY_FLAG     = 1 << 9,$/;"	e	enum:ParseChar
+MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^   MOD_KEY_FLAG     = TA_MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+MOD_KEY_INT	include/cmdCharDef.h	/^   MOD_KEY_INT      = 91,$/;"	e	enum:ParseChar
+MOD_KEY_INT	include/cmdCharDef.h	/^   MOD_KEY_INT      = TA_MOD_KEY_INT,$/;"	e	enum:ParseChar
+MOD_KEY_INT	src/cmd/cmdCharDef.h	/^   MOD_KEY_INT      = 91,$/;"	e	enum:ParseChar
+MOD_KEY_INT	src/cmd/cmdCharDef.h	/^   MOD_KEY_INT      = TA_MOD_KEY_INT,$/;"	e	enum:ParseChar
+NEWLINE_KEY	include/cmdCharDef.h	/^   NEWLINE_KEY      = TA_NEWLINE_KEY,     \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	include/cmdCharDef.h	/^   NEWLINE_KEY      = int('\\n'),  \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	src/cmd/cmdCharDef.h	/^   NEWLINE_KEY      = TA_NEWLINE_KEY,     \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+NEWLINE_KEY	src/cmd/cmdCharDef.h	/^   NEWLINE_KEY      = int('\\n'),  \/\/ enter('\\n') or ctrl-m$/;"	e	enum:ParseChar
+PARSE_CHAR_END	include/cmdCharDef.h	/^   PARSE_CHAR_END$/;"	e	enum:ParseChar
+PARSE_CHAR_END	src/cmd/cmdCharDef.h	/^   PARSE_CHAR_END$/;"	e	enum:ParseChar
+PG_DOWN_KEY	include/cmdCharDef.h	/^   PG_DOWN_KEY      = 21,\/\/54 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	include/cmdCharDef.h	/^   PG_DOWN_KEY      = TA_PG_DOWN_KEY,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^   PG_DOWN_KEY      = 21,\/\/54 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^   PG_DOWN_KEY      = TA_PG_DOWN_KEY,$/;"	e	enum:ParseChar
+PG_OFFSET	include/cmdParser.h	/^#define PG_OFFSET /;"	d
+PG_OFFSET	src/cmd/cmdParser.h	/^#define PG_OFFSET /;"	d
+PG_UP_KEY	include/cmdCharDef.h	/^   PG_UP_KEY        = 20,\/\/53 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_UP_KEY	include/cmdCharDef.h	/^   PG_UP_KEY        = TA_PG_UP_KEY,$/;"	e	enum:ParseChar
+PG_UP_KEY	src/cmd/cmdCharDef.h	/^   PG_UP_KEY        = 20,\/\/53 + MOD_KEY_FLAG,$/;"	e	enum:ParseChar
+PG_UP_KEY	src/cmd/cmdCharDef.h	/^   PG_UP_KEY        = TA_PG_UP_KEY,$/;"	e	enum:ParseChar
+ParseChar	include/cmdCharDef.h	/^enum ParseChar$/;"	g
+ParseChar	src/cmd/cmdCharDef.h	/^enum ParseChar$/;"	g
+QuitCmd	src/cmd/cmdCommon.h	/^CmdClass(QuitCmd);$/;"	v
+READ_BUF_SIZE	include/cmdParser.h	/^#define READ_BUF_SIZE /;"	d
+READ_BUF_SIZE	src/cmd/cmdParser.h	/^#define READ_BUF_SIZE /;"	d
+TAB_KEY	include/cmdCharDef.h	/^   TAB_KEY          = TA_TAB_KEY,         \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	include/cmdCharDef.h	/^   TAB_KEY          = int('\\t'),  \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	src/cmd/cmdCharDef.h	/^   TAB_KEY          = TA_TAB_KEY,         \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TAB_KEY	src/cmd/cmdCharDef.h	/^   TAB_KEY          = int('\\t'),  \/\/ tab('\\t') or Ctrl-i$/;"	e	enum:ParseChar
+TA_ARROW_DOWN_KEY	include/cmdCharDef.h	/^#define TA_ARROW_DOWN_KEY /;"	d
+TA_ARROW_DOWN_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_DOWN_KEY /;"	d
+TA_ARROW_KEY_BEGIN	include/cmdCharDef.h	/^#define TA_ARROW_KEY_BEGIN /;"	d
+TA_ARROW_KEY_BEGIN	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_BEGIN /;"	d
+TA_ARROW_KEY_END	include/cmdCharDef.h	/^#define TA_ARROW_KEY_END /;"	d
+TA_ARROW_KEY_END	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_END /;"	d
+TA_ARROW_KEY_FLAG	include/cmdCharDef.h	/^#define TA_ARROW_KEY_FLAG /;"	d
+TA_ARROW_KEY_FLAG	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_FLAG /;"	d
+TA_ARROW_KEY_INT	include/cmdCharDef.h	/^#define TA_ARROW_KEY_INT /;"	d
+TA_ARROW_KEY_INT	src/cmd/cmdCharDef.h	/^#define TA_ARROW_KEY_INT /;"	d
+TA_ARROW_LEFT_KEY	include/cmdCharDef.h	/^#define TA_ARROW_LEFT_KEY /;"	d
+TA_ARROW_LEFT_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_LEFT_KEY /;"	d
+TA_ARROW_RIGHT_KEY	include/cmdCharDef.h	/^#define TA_ARROW_RIGHT_KEY /;"	d
+TA_ARROW_RIGHT_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_RIGHT_KEY /;"	d
+TA_ARROW_UP_KEY	include/cmdCharDef.h	/^#define TA_ARROW_UP_KEY /;"	d
+TA_ARROW_UP_KEY	src/cmd/cmdCharDef.h	/^#define TA_ARROW_UP_KEY /;"	d
+TA_BACK_SPACE_CHAR	include/cmdCharDef.h	/^#define TA_BACK_SPACE_CHAR /;"	d
+TA_BACK_SPACE_CHAR	src/cmd/cmdCharDef.h	/^#define TA_BACK_SPACE_CHAR /;"	d
+TA_BACK_SPACE_KEY	include/cmdCharDef.h	/^#define TA_BACK_SPACE_KEY /;"	d
+TA_BACK_SPACE_KEY	src/cmd/cmdCharDef.h	/^#define TA_BACK_SPACE_KEY /;"	d
+TA_BEEP_CHAR	include/cmdCharDef.h	/^#define TA_BEEP_CHAR /;"	d
+TA_BEEP_CHAR	src/cmd/cmdCharDef.h	/^#define TA_BEEP_CHAR /;"	d
+TA_DELETE_KEY	include/cmdCharDef.h	/^#define TA_DELETE_KEY /;"	d
+TA_DELETE_KEY	src/cmd/cmdCharDef.h	/^#define TA_DELETE_KEY /;"	d
+TA_END_KEY	include/cmdCharDef.h	/^#define TA_END_KEY /;"	d
+TA_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_END_KEY /;"	d
+TA_ESC_KEY	include/cmdCharDef.h	/^#define TA_ESC_KEY /;"	d
+TA_ESC_KEY	src/cmd/cmdCharDef.h	/^#define TA_ESC_KEY /;"	d
+TA_HOME_KEY	include/cmdCharDef.h	/^#define TA_HOME_KEY /;"	d
+TA_HOME_KEY	src/cmd/cmdCharDef.h	/^#define TA_HOME_KEY /;"	d
+TA_INPUT_END_KEY	include/cmdCharDef.h	/^#define TA_INPUT_END_KEY /;"	d
+TA_INPUT_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_INPUT_END_KEY /;"	d
+TA_INSERT_KEY	include/cmdCharDef.h	/^#define TA_INSERT_KEY /;"	d
+TA_INSERT_KEY	src/cmd/cmdCharDef.h	/^#define TA_INSERT_KEY /;"	d
+TA_LINE_BEGIN_KEY	include/cmdCharDef.h	/^#define TA_LINE_BEGIN_KEY /;"	d
+TA_LINE_BEGIN_KEY	src/cmd/cmdCharDef.h	/^#define TA_LINE_BEGIN_KEY /;"	d
+TA_LINE_END_KEY	include/cmdCharDef.h	/^#define TA_LINE_END_KEY /;"	d
+TA_LINE_END_KEY	src/cmd/cmdCharDef.h	/^#define TA_LINE_END_KEY /;"	d
+TA_MOD_KEY_BEGIN	include/cmdCharDef.h	/^#define TA_MOD_KEY_BEGIN /;"	d
+TA_MOD_KEY_BEGIN	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_BEGIN /;"	d
+TA_MOD_KEY_DUMMY	include/cmdCharDef.h	/^#define TA_MOD_KEY_DUMMY /;"	d
+TA_MOD_KEY_DUMMY	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_DUMMY /;"	d
+TA_MOD_KEY_END	include/cmdCharDef.h	/^#define TA_MOD_KEY_END /;"	d
+TA_MOD_KEY_END	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_END /;"	d
+TA_MOD_KEY_FLAG	include/cmdCharDef.h	/^#define TA_MOD_KEY_FLAG /;"	d
+TA_MOD_KEY_FLAG	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_FLAG /;"	d
+TA_MOD_KEY_INT	include/cmdCharDef.h	/^#define TA_MOD_KEY_INT /;"	d
+TA_MOD_KEY_INT	src/cmd/cmdCharDef.h	/^#define TA_MOD_KEY_INT /;"	d
+TA_NEWLINE_KEY	include/cmdCharDef.h	/^#define TA_NEWLINE_KEY /;"	d
+TA_NEWLINE_KEY	src/cmd/cmdCharDef.h	/^#define TA_NEWLINE_KEY /;"	d
+TA_PG_DOWN_KEY	include/cmdCharDef.h	/^#define TA_PG_DOWN_KEY /;"	d
+TA_PG_DOWN_KEY	src/cmd/cmdCharDef.h	/^#define TA_PG_DOWN_KEY /;"	d
+TA_PG_UP_KEY	include/cmdCharDef.h	/^#define TA_PG_UP_KEY /;"	d
+TA_PG_UP_KEY	src/cmd/cmdCharDef.h	/^#define TA_PG_UP_KEY /;"	d
+TA_TAB_KEY	include/cmdCharDef.h	/^#define TA_TAB_KEY /;"	d
+TA_TAB_KEY	src/cmd/cmdCharDef.h	/^#define TA_TAB_KEY /;"	d
+TA_UNDEFINED_KEY	include/cmdCharDef.h	/^#define TA_UNDEFINED_KEY /;"	d
+TA_UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^#define TA_UNDEFINED_KEY /;"	d
+TESTEXEC	Makefile	/^TESTEXEC = testdb$/;"	m
+TESTMAIN	Makefile	/^TESTMAIN = test$/;"	m
+UNDEFINED_KEY	include/cmdCharDef.h	/^   UNDEFINED_KEY    = TA_UNDEFINED_KEY,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	include/cmdCharDef.h	/^   UNDEFINED_KEY  = INT_MAX,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^   UNDEFINED_KEY    = TA_UNDEFINED_KEY,$/;"	e	enum:ParseChar
+UNDEFINED_KEY	src/cmd/cmdCharDef.h	/^   UNDEFINED_KEY  = INT_MAX,$/;"	e	enum:ParseChar
+UTIL_H	include/util.h	/^#define UTIL_H$/;"	d
+UTIL_H	src/util/util.h	/^#define UTIL_H$/;"	d
+UsageCmd	src/cmd/cmdCommon.h	/^CmdClass(UsageCmd);$/;"	v
+_cmdMap	include/cmdParser.h	/^   CmdMap    _cmdMap;                \/\/ map from string to command$/;"	m	class:CmdParser
+_cmdMap	src/cmd/cmdParser.h	/^   CmdMap    _cmdMap;                \/\/ map from string to command$/;"	m	class:CmdParser
+_dofile	include/cmdParser.h	/^   ifstream* _dofile;                \/\/ for command script$/;"	m	class:CmdParser
+_dofile	src/cmd/cmdParser.h	/^   ifstream* _dofile;                \/\/ for command script$/;"	m	class:CmdParser
+_dofileStack	include/cmdParser.h	/^   stack<ifstream*> _dofileStack;    \/\/ For recursive dofile calling$/;"	m	class:CmdParser
+_dofileStack	src/cmd/cmdParser.h	/^   stack<ifstream*> _dofileStack;    \/\/ For recursive dofile calling$/;"	m	class:CmdParser
+_history	include/cmdParser.h	/^   vector<string>   _history;        \/\/ oldest:_history[0],latest:_hist.back()$/;"	m	class:CmdParser
+_history	src/cmd/cmdParser.h	/^   vector<string>   _history;        \/\/ oldest:_history[0],latest:_hist.back()$/;"	m	class:CmdParser
+_historyIdx	include/cmdParser.h	/^   int       _historyIdx;            \/\/ (1) Position to insert history string$/;"	m	class:CmdParser
+_historyIdx	src/cmd/cmdParser.h	/^   int       _historyIdx;            \/\/ (1) Position to insert history string$/;"	m	class:CmdParser
+_jsonReadIn	include/dbJson.h	/^    bool _jsonReadIn;\/\/check if json has been read in$/;"	m	class:DBJson
+_jsonReadIn	src/db/dbJson.h	/^    bool _jsonReadIn;\/\/check if json has been read in$/;"	m	class:DBJson
+_key	include/dbJson.h	/^   string  _key;   \/\/ DO NOT change this definition. Use it to store key.$/;"	m	class:DBJsonElem
+_key	src/db/dbJson.h	/^   string  _key;   \/\/ DO NOT change this definition. Use it to store key.$/;"	m	class:DBJsonElem
+_obj	include/dbJson.h	/^    vector<DBJsonElem>       _obj;  \/\/ DO NOT change this definition.$/;"	m	class:DBJson
+_obj	src/db/dbJson.h	/^    vector<DBJsonElem>       _obj;  \/\/ DO NOT change this definition.$/;"	m	class:DBJson
+_optCmd	include/cmdParser.h	/^   string            _optCmd;$/;"	m	class:CmdExec
+_optCmd	src/cmd/cmdParser.h	/^   string            _optCmd;$/;"	m	class:CmdExec
+_prompt	include/cmdParser.h	/^   const string _prompt;             \/\/ command prompt$/;"	m	class:CmdParser
+_prompt	src/cmd/cmdParser.h	/^   const string _prompt;             \/\/ command prompt$/;"	m	class:CmdParser
+_readBuf	include/cmdParser.h	/^   char      _readBuf[READ_BUF_SIZE];\/\/ save the current line input$/;"	m	class:CmdParser
+_readBuf	src/cmd/cmdParser.h	/^   char      _readBuf[READ_BUF_SIZE];\/\/ save the current line input$/;"	m	class:CmdParser
+_readBufEnd	include/cmdParser.h	/^   char*     _readBufEnd;            \/\/ end of string position of _readBuf$/;"	m	class:CmdParser
+_readBufEnd	src/cmd/cmdParser.h	/^   char*     _readBufEnd;            \/\/ end of string position of _readBuf$/;"	m	class:CmdParser
+_readBufPtr	include/cmdParser.h	/^   char*     _readBufPtr;            \/\/ point to the cursor position$/;"	m	class:CmdParser
+_readBufPtr	src/cmd/cmdParser.h	/^   char*     _readBufPtr;            \/\/ point to the cursor position$/;"	m	class:CmdParser
+_tabPressCount	include/cmdParser.h	/^   size_t    _tabPressCount;         \/\/ The number of tab pressed$/;"	m	class:CmdParser
+_tabPressCount	src/cmd/cmdParser.h	/^   size_t    _tabPressCount;         \/\/ The number of tab pressed$/;"	m	class:CmdParser
+_tempCmdStored	include/cmdParser.h	/^   bool      _tempCmdStored;         \/\/ When up\/pgUp is pressed, current line$/;"	m	class:CmdParser
+_tempCmdStored	src/cmd/cmdParser.h	/^   bool      _tempCmdStored;         \/\/ When up\/pgUp is pressed, current line$/;"	m	class:CmdParser
+_value	include/dbJson.h	/^   int     _value; \/\/ DO NOT change this definition. Use it to store value.$/;"	m	class:DBJsonElem
+_value	src/db/dbJson.h	/^   int     _value; \/\/ DO NOT change this definition. Use it to store value.$/;"	m	class:DBJsonElem
+add	src/db/dbJson.cpp	/^DBJson::add(const DBJsonElem& elm)$/;"	f	class:DBJson
+ave	src/db/dbJson.cpp	/^DBJson::ave() const$/;"	f	class:DBJson
+closeDofile	src/cmd/cmdParser.cpp	/^CmdParser::closeDofile()$/;"	f	class:CmdParser
+cmdMgr	src/test/test.cpp	/^CmdParser* cmdMgr = 0; \/\/ for linking purpose$/;"	v
+dbjson	src/db/dbCmd.cpp	/^DBJson dbjson;$/;"	v
+empty	include/dbJson.h	/^    bool empty() const { return _obj.empty(); }$/;"	f	class:DBJson
+empty	src/db/dbJson.h	/^    bool empty() const { return _obj.empty(); }$/;"	f	class:DBJson
+errorOption	src/cmd/cmdParser.cpp	/^CmdExec::errorOption(CmdOptionError err, const string& opt) const$/;"	f	class:CmdExec
+exec	src/cmd/cmdCommon.cpp	/^DofileCmd::exec(const string& option)$/;"	f	class:DofileCmd
+exec	src/cmd/cmdCommon.cpp	/^HelpCmd::exec(const string& option)$/;"	f	class:HelpCmd
+exec	src/cmd/cmdCommon.cpp	/^HistoryCmd::exec(const string& option)$/;"	f	class:HistoryCmd
+exec	src/cmd/cmdCommon.cpp	/^QuitCmd::exec(const string& option)$/;"	f	class:QuitCmd
+exec	src/db/dbCmd.cpp	/^DBAppendCmd::exec(const string& option)$/;"	f	class:DBAppendCmd
+exec	src/db/dbCmd.cpp	/^DBAveCmd::exec(const string& option)$/;"	f	class:DBAveCmd
+exec	src/db/dbCmd.cpp	/^DBCountCmd::exec(const string& option)$/;"	f	class:DBCountCmd
+exec	src/db/dbCmd.cpp	/^DBMaxCmd::exec(const string& option)$/;"	f	class:DBMaxCmd
+exec	src/db/dbCmd.cpp	/^DBMinCmd::exec(const string& option)$/;"	f	class:DBMinCmd
+exec	src/db/dbCmd.cpp	/^DBPrintCmd::exec(const string& option)$/;"	f	class:DBPrintCmd
+exec	src/db/dbCmd.cpp	/^DBReadCmd::exec(const string& option)$/;"	f	class:DBReadCmd
+exec	src/db/dbCmd.cpp	/^DBSortCmd::exec(const string& option)$/;"	f	class:DBSortCmd
+exec	src/db/dbCmd.cpp	/^DBSumCmd::exec(const string& option)$/;"	f	class:DBSumCmd
+execOneCmd	src/cmd/cmdParser.cpp	/^CmdParser::execOneCmd()$/;"	f	class:CmdParser
+getChar	src/cmd/cmdCharDef.cpp	/^CmdParser::getChar(istream& istr) const$/;"	f	class:CmdParser
+getCmd	src/cmd/cmdParser.cpp	/^CmdParser::getCmd(string cmd)$/;"	f	class:CmdParser
+getOptCmd	include/cmdParser.h	/^   const string& getOptCmd() const { return _optCmd; }$/;"	f	class:CmdExec
+getOptCmd	src/cmd/cmdParser.h	/^   const string& getOptCmd() const { return _optCmd; }$/;"	f	class:CmdExec
+help	src/cmd/cmdCommon.cpp	/^DofileCmd::help() const$/;"	f	class:DofileCmd
+help	src/cmd/cmdCommon.cpp	/^HelpCmd::help() const$/;"	f	class:HelpCmd
+help	src/cmd/cmdCommon.cpp	/^HistoryCmd::help() const$/;"	f	class:HistoryCmd
+help	src/cmd/cmdCommon.cpp	/^QuitCmd::help() const$/;"	f	class:QuitCmd
+help	src/db/dbCmd.cpp	/^DBAppendCmd::help() const$/;"	f	class:DBAppendCmd
+help	src/db/dbCmd.cpp	/^DBAveCmd::help() const$/;"	f	class:DBAveCmd
+help	src/db/dbCmd.cpp	/^DBCountCmd::help() const$/;"	f	class:DBCountCmd
+help	src/db/dbCmd.cpp	/^DBMaxCmd::help() const$/;"	f	class:DBMaxCmd
+help	src/db/dbCmd.cpp	/^DBMinCmd::help() const$/;"	f	class:DBMinCmd
+help	src/db/dbCmd.cpp	/^DBPrintCmd::help() const$/;"	f	class:DBPrintCmd
+help	src/db/dbCmd.cpp	/^DBReadCmd::help() const$/;"	f	class:DBReadCmd
+help	src/db/dbCmd.cpp	/^DBSortCmd::help() const$/;"	f	class:DBSortCmd
+help	src/db/dbCmd.cpp	/^DBSumCmd::help() const$/;"	f	class:DBSumCmd
+initCommonCmd	src/cmd/cmdCommon.cpp	/^initCommonCmd()$/;"	f
+initDbCmd	src/db/dbCmd.cpp	/^initDbCmd()$/;"	f
+isValidVarName	src/util/myString.cpp	/^isValidVarName(const string& str)$/;"	f
+key	include/dbJson.h	/^   const string& key() const { return _key; }$/;"	f	class:DBJsonElem
+key	include/dbJson.h	/^   string& key() { return _key; }$/;"	f	class:DBJsonElem
+key	src/db/dbJson.h	/^   const string& key() const { return _key; }$/;"	f	class:DBJsonElem
+key	src/db/dbJson.h	/^   string& key() { return _key; }$/;"	f	class:DBJsonElem
+lexNoOption	src/cmd/cmdParser.cpp	/^CmdExec::lexNoOption(const string& option) const$/;"	f	class:CmdExec
+lexOptions	src/cmd/cmdParser.cpp	/^CmdExec::lexOptions$/;"	f	class:CmdExec
+lexSingleOption	src/cmd/cmdParser.cpp	/^CmdExec::lexSingleOption$/;"	f	class:CmdExec
+listCmd	src/cmd/cmdParser.cpp	/^CmdParser::listCmd(const string& str)$/;"	f	class:CmdParser
+listDir	src/util/util.cpp	/^int listDir$/;"	f
+main	src/main/main.cpp	/^main(int argc, char** argv)$/;"	f
+main	src/test/test.cpp	/^main(int argc, char** argv)$/;"	f
+max	src/db/dbJson.cpp	/^DBJson::max(size_t& idx) const$/;"	f	class:DBJson
+min	src/db/dbJson.cpp	/^DBJson::min(size_t& idx) const$/;"	f	class:DBJson
+myGetChar	src/util/myGetChar.cpp	/^char myGetChar()$/;"	f
+myGetChar	src/util/myGetChar.cpp	/^char myGetChar(istream& istr)$/;"	f
+myStr2Int	src/util/myString.cpp	/^myStr2Int(const string& str, int& num)$/;"	f
+myStrGetTok	src/util/myString.cpp	/^myStrGetTok(const string& str, string& tok, size_t pos = 0,$/;"	f
+myStrNCmp	src/util/myString.cpp	/^myStrNCmp(const string& s1, const string& s2, unsigned n)\/\/ziyi: returns 0 if s1==s2$/;"	f
+mybeep	src/cmd/cmdCharDef.cpp	/^void mybeep()$/;"	f
+myexit	src/main/main.cpp	/^myexit()$/;"	f	file:
+mygetc	src/cmd/cmdCharDef.cpp	/^static char mygetc(istream& istr)$/;"	f	file:
+openDofile	src/cmd/cmdParser.cpp	/^CmdParser::openDofile(const string& dof)$/;"	f	class:CmdParser
+operator !	include/dbJson.h	/^    bool operator !() \/**not sure**\/$/;"	f	class:DBJson
+operator !	src/db/dbJson.h	/^    bool operator !() \/**not sure**\/$/;"	f	class:DBJson
+operator ()	include/dbJson.h	/^   bool operator() (const DBJsonElem& m1, const DBJsonElem& m2) const {$/;"	f	struct:DBSortKey
+operator ()	include/dbJson.h	/^   bool operator() (const DBJsonElem& m1, const DBJsonElem& m2) const {$/;"	f	struct:DBSortValue
+operator ()	src/db/dbJson.h	/^   bool operator() (const DBJsonElem& m1, const DBJsonElem& m2) const {$/;"	f	struct:DBSortKey
+operator ()	src/db/dbJson.h	/^   bool operator() (const DBJsonElem& m1, const DBJsonElem& m2) const {$/;"	f	struct:DBSortValue
+operator <<	src/db/dbJson.cpp	/^operator << (ostream& os, const DBJsonElem& j)$/;"	f
+operator <<	src/db/dbJson.cpp	/^ostream& operator << (ostream& os, const DBJson& j)$/;"	f
+operator >>	src/db/dbJson.cpp	/^istream& operator >> (istream& is, DBJson& j)\/\/ziyi: cin>>j, where j is a DBJson$/;"	f
+operator []	include/dbJson.h	/^    DBJsonElem& operator [] (size_t i) { return _obj[i]; }$/;"	f	class:DBJson
+operator []	include/dbJson.h	/^    const DBJsonElem& operator [] (size_t i) const { return _obj[i]; }$/;"	f	class:DBJson
+operator []	src/db/dbJson.h	/^    DBJsonElem& operator [] (size_t i) { return _obj[i]; }$/;"	f	class:DBJson
+operator []	src/db/dbJson.h	/^    const DBJsonElem& operator [] (size_t i) const { return _obj[i]; }$/;"	f	class:DBJson
+operator void*	include/dbJson.h	/^    operator void* () \/\/const\/\/ziyi: defines what happens when the object is converted to a void pointer$/;"	f	class:DBJson
+operator void*	src/db/dbJson.h	/^    operator void* () \/\/const\/\/ziyi: defines what happens when the object is converted to a void pointer$/;"	f	class:DBJson
+parseCmd	src/cmd/cmdParser.cpp	/^CmdParser::parseCmd(string& option)$/;"	f	class:CmdParser
+printHelps	src/cmd/cmdParser.cpp	/^CmdParser::printHelps() const$/;"	f	class:CmdParser
+printHistory	src/cmd/cmdParser.cpp	/^CmdParser::printHistory(int nPrint) const$/;"	f	class:CmdParser
+printPrompt	include/cmdParser.h	/^   void printPrompt() const { cout << _prompt; }$/;"	f	class:CmdParser
+printPrompt	src/cmd/cmdParser.h	/^   void printPrompt() const { cout << _prompt; }$/;"	f	class:CmdParser
+regCmd	src/cmd/cmdParser.cpp	/^CmdParser::regCmd(const string& cmd, unsigned nCmp, CmdExec* e)$/;"	f	class:CmdParser
+reset	src/db/dbJson.cpp	/^DBJson::reset()$/;"	f	class:DBJson
+resetBufAndPrintPrompt	include/cmdParser.h	/^   void resetBufAndPrintPrompt() {$/;"	f	class:CmdParser
+resetBufAndPrintPrompt	src/cmd/cmdParser.h	/^   void resetBufAndPrintPrompt() {$/;"	f	class:CmdParser
+reset_keypress	src/cmd/cmdCharDef.cpp	/^static void reset_keypress(void)$/;"	f	file:
+reset_keypress	src/util/myGetChar.cpp	/^static void reset_keypress(void)$/;"	f	file:
+returnCh	src/cmd/cmdCharDef.cpp	/^returnCh(int ch)$/;"	f	file:
+setOptCmd	include/cmdParser.h	/^   void setOptCmd(const string& str) { _optCmd = str; }$/;"	f	class:CmdExec
+setOptCmd	src/cmd/cmdParser.h	/^   void setOptCmd(const string& str) { _optCmd = str; }$/;"	f	class:CmdExec
+set_keypress	src/cmd/cmdCharDef.cpp	/^static void set_keypress(void)$/;"	f	file:
+set_keypress	src/util/myGetChar.cpp	/^static void set_keypress(void)$/;"	f	file:
+size	include/dbJson.h	/^    size_t size() const { return _obj.size(); }$/;"	f	class:DBJson
+size	src/db/dbJson.h	/^    size_t size() const { return _obj.size(); }$/;"	f	class:DBJson
+sort	src/db/dbJson.cpp	/^DBJson::sort(const DBSortKey& s)$/;"	f	class:DBJson
+sort	src/db/dbJson.cpp	/^DBJson::sort(const DBSortValue& s)$/;"	f	class:DBJson
+stored_settings	src/cmd/cmdCharDef.cpp	/^static struct termios stored_settings;$/;"	v	typeref:struct:termios	file:
+stored_settings	src/util/myGetChar.cpp	/^static struct termios stored_settings;$/;"	v	typeref:struct:termios	file:
+sum	src/db/dbJson.cpp	/^DBJson::sum() const$/;"	f	class:DBJson
+taTestOnly	include/cmdParser.h	/^   void taTestOnly() {}$/;"	f	class:CmdParser
+taTestOnly	src/cmd/cmdParser.h	/^   void taTestOnly() {}$/;"	f	class:CmdParser
+usage	src/cmd/cmdCommon.cpp	/^DofileCmd::usage(ostream& os) const$/;"	f	class:DofileCmd
+usage	src/cmd/cmdCommon.cpp	/^HelpCmd::usage(ostream& os) const$/;"	f	class:HelpCmd
+usage	src/cmd/cmdCommon.cpp	/^HistoryCmd::usage(ostream& os) const$/;"	f	class:HistoryCmd
+usage	src/cmd/cmdCommon.cpp	/^QuitCmd::usage(ostream& os) const$/;"	f	class:QuitCmd
+usage	src/db/dbCmd.cpp	/^DBAppendCmd::usage(ostream& os) const$/;"	f	class:DBAppendCmd
+usage	src/db/dbCmd.cpp	/^DBAveCmd::usage(ostream& os) const$/;"	f	class:DBAveCmd
+usage	src/db/dbCmd.cpp	/^DBCountCmd::usage(ostream& os) const$/;"	f	class:DBCountCmd
+usage	src/db/dbCmd.cpp	/^DBMaxCmd::usage(ostream& os) const$/;"	f	class:DBMaxCmd
+usage	src/db/dbCmd.cpp	/^DBMinCmd::usage(ostream& os) const$/;"	f	class:DBMinCmd
+usage	src/db/dbCmd.cpp	/^DBPrintCmd::usage(ostream& os) const$/;"	f	class:DBPrintCmd
+usage	src/db/dbCmd.cpp	/^DBReadCmd::usage(ostream& os) const$/;"	f	class:DBReadCmd
+usage	src/db/dbCmd.cpp	/^DBSortCmd::usage(ostream& os) const$/;"	f	class:DBSortCmd
+usage	src/db/dbCmd.cpp	/^DBSumCmd::usage(ostream& os) const$/;"	f	class:DBSumCmd
+usage	src/main/main.cpp	/^usage()$/;"	f	file:
+value	include/dbJson.h	/^   const int& value() const { return _value; }$/;"	f	class:DBJsonElem
+value	include/dbJson.h	/^   int& value() { return _value; }$/;"	f	class:DBJsonElem
+value	src/db/dbJson.h	/^   const int& value() const { return _value; }$/;"	f	class:DBJsonElem
+value	src/db/dbJson.h	/^   int& value() { return _value; }$/;"	f	class:DBJsonElem
+~CmdExec	include/cmdParser.h	/^   virtual ~CmdExec() {}$/;"	f	class:CmdExec
+~CmdExec	src/cmd/cmdParser.h	/^   virtual ~CmdExec() {}$/;"	f	class:CmdExec
+~CmdParser	include/cmdParser.h	/^   virtual ~CmdParser() {}$/;"	f	class:CmdParser
+~CmdParser	src/cmd/cmdParser.h	/^   virtual ~CmdParser() {}$/;"	f	class:CmdParser
